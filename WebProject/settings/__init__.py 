@@ -3,6 +3,6 @@ from .base import *
 from .production import *
 
 try:
-   from .local_ import *
+   from .local import *
 except:
    pass
