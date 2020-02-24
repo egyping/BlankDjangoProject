@@ -25,7 +25,7 @@ SECRET_KEY = 'b%$kg3^safih^5ag%1yy5i8$dz(^9c@g6vzeqjej^o)&l()vsc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['144.91.91.83', '.mallzaad.com']
 
 
 # Application definition
